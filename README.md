@@ -1,6 +1,6 @@
 # Course 2024
 
-Working repository for the fall 2024 course on collaborative software development. This will be your *upstream* repository for the exercises.
+Working repository for the November 2024 course on collaborative software development. This will be your *upstream* repository for the exercises.
 
 Instructors:
 
